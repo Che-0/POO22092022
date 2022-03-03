@@ -77,7 +77,7 @@ public class Libro {
         System.out.println ("Los datos de tu libro son: ");
         System.out.println (this.nombre + " de " + this.autor + " con " +this.paginas + " paginas " + "y se publico en " + this.fechaPublicacion + ", cuesta $" + this.precio );
         /*System.out.println (this.autor);
-        System.out.println (this.paginas);
+        System.out.println (this.paginas);jjj
         System.out.println (this.fechaPublicacion);
         System.out.println (this.precio);
         System.out.println (this.vida);*/
